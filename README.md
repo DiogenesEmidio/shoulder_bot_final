@@ -5,5 +5,6 @@ Chatbot criado para dissertação de mestrado.
 
 Comandos:
 
-Para executar o bot: ctrl + alt + n \n
-para parar execução: ctrl + alt + m
+Para executar o bot: ctrl + alt + n
+
+Para parar execução: ctrl + alt + m
